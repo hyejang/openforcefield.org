@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>torsions on Open Force Field Initiative</title>
+    <link>//openforcefield.org/tags/torsions/</link>
+    <description>Recent content in torsions on Open Force Field Initiative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//openforcefield.org/tags/torsions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Release-1 update (Aug 15, 2019)</title>
+      <link>//openforcefield.org/science/updates/release-1-update-2019-08-20/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//openforcefield.org/science/updates/release-1-update-2019-08-20/</guid>
+      <description>Chemical coverage C. Bayly suggested broadly dividing parameters into two categories: 1) chemistry being covered in the first optimization run; 2) everything else. The latter category should also include information about all molecules that were cleaned out from databases used in the first optimization sprint, which was focused on improvement of a selected (sub)set of parameters. This information (data) can be used in the later stages of the force field optimization when chemical coverage will be expanded.</description>
+    </item>
+    
+    <item>
+      <title>Release-1 update (Jul 16, 2019)</title>
+      <link>//openforcefield.org/science/updates/release-1-update-2019-07-16/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//openforcefield.org/science/updates/release-1-update-2019-07-16/</guid>
+      <description>Types We will use the same typing tree as smirnoff99Frosst (with some minor adjustments to specific bugs or other problems), but optimize the differentiable parameters in (a subset of) torsion, valence, and Lennard-Jones parameters.
+Parameterization: We will aim to refit (a subset of) torsions, valence terms, and Lennard-Jones parameters, depending on what is ready in time. In practice, we have decoupled efforts to fit all three that should be straightforward to couple together in our final optimization stage.</description>
+    </item>
+    
+    <item>
+      <title>Webinar by Chaya Stern: Fragmenting molecules for QC torsion drives (Jun 4, 2019)</title>
+      <link>//openforcefield.org/news/webinar-torsions-chaya/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//openforcefield.org/news/webinar-torsions-chaya/</guid>
+      <description>You can watch this webinar on YouTube and access slides on Zenodo.
+Chaya Stern (Chodera lab) will give a webinar on Jun 4 at 11 am (EDT) under title “Fragmenting molecules for QC torsion drives”, based on her talk presented at the ACS Orlando conference (Mar 31 - Apr 4, 2019). Join the webinar in real time via Zoom link (https://meetmsk.zoom.us/j/987691623) or for those who can’t make it, Chaya’s talk will be recorded and shared on the website.</description>
+    </item>
+    
+  </channel>
+</rss>
